@@ -1,1 +1,1 @@
-python3 Epitaph.py
+python3 epitaph.py
